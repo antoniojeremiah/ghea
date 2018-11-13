@@ -1,0 +1,21 @@
+body {
+	background-color: yellow;
+	text-align: center;
+}
+h1 {
+	color:black;
+}
+img {
+	border: 5px white solid;
+}
+#no {
+	color: black;
+}
+ul {
+	text-align: left;
+	display: inline-block;
+}
+
+a {
+	color: black;
+}

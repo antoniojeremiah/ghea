@@ -1,0 +1,21 @@
+body {
+	background: skyblue;
+	font-style: verda;
+}
+
+h1 {
+	color: darkblue
+}
+
+img {
+	border: 5px darkblue solid;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}
+
+h3 {
+	color: darkblue;
+}
